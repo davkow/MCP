@@ -12,5 +12,10 @@
 - 13-Oct-2025 | Why I built an MCP server to check my docs (and what it taught me)<br>
   https://passo.uno/mcp-server-docs-tooling/<br>
 
+- 26-Oct-2025 | MCP servers and the role tech writers can play in shaping AI capabilities and outcomes...<br>
+  https://idratherbewriting.com/blog/mcp-tools-language-tech-writing
+
+  
+
 
 
